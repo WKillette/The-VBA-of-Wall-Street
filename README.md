@@ -1,4 +1,4 @@
-# VBA Homework: The VBA of Wall Street
+# Unit 2: The VBA of Wall Street
 
 ## Background
 
