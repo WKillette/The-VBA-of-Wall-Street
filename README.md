@@ -11,7 +11,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 2. Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
 
 
-![alt=""](Images/stockmarket.jpg)
+(Images/stockmarket.jpg)
 
 ## Instructions
 
